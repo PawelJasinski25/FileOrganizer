@@ -35,10 +35,3 @@ Określa maksymalną głębokość skanowania katalogów w przypadku operacji `-
 
 * `--help` <br>
 Wyświetla pomoc, opis komend i ich użycie.
-
-
-## Testy
-Do testowania można użyć katalogu "katalogtestowy", który zawiera 73 pliki, w tym 68 zdjęć. Katalog można pobrać tutaj:<br>
-https://ujchmura-my.sharepoint.com/personal/pawel25_jasinski_student_uj_edu_pl/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpawel25%5Fjasinski%5Fstudent%5Fuj%5Fedu%5Fpl%2FDocuments%2Fskryptowe&ga=1<br>
-
-Link jest też w link.txt
